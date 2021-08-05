@@ -15,4 +15,4 @@ type of data (i.e. nanopore-raw)
 
 Assembly will be sent to the output directory specified by the user.
 
-
+Note: The example provided in here will not provide adequate coverage; it is challenging to find one under the 100MB limit that does, but a complete working example is available upon request.

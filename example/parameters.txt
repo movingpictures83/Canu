@@ -1,0 +1,4 @@
+LongReads.fastq
+canu
+100k
+nanopore-raw
